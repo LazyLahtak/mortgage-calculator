@@ -1,0 +1,17 @@
+{
+  "author": "LazyLahtak",
+  "description": "",
+  "devDependencies": {
+    "electron": "^21.3.1",
+    "eslint": "^8.28.0",
+    "eslint-plugin-react": "^7.31.11"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "name": "@mortage-calculator/electron-app",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.0"
+}
