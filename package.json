@@ -1,0 +1,13 @@
+{
+  "author": "LazyLahtak",
+  "description": "",
+  "devDependencies": {},
+  "license": "MIT",
+  "main": "index.js",
+  "name": "mortage-calculator",
+  "private": true,
+  "scripts": {
+    "start-web": "cd packages/web && npm run start start"
+  },
+  "version": "0.0.0"
+}
